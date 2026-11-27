@@ -22,7 +22,7 @@ This is custom Car Chassis for RC bot, it features standard motor mount and curv
 <img width="518" height="1370" alt="image" src="https://github.com/user-attachments/assets/96e2acf1-f526-43e0-9b8c-0c11bf1292c0" />
 <img width="1600" height="568" alt="image" src="https://github.com/user-attachments/assets/fd1c6290-6855-4ecf-abcf-8f34289a80a5" />
 
-> File for wheel can also be found in this repository, for the L-mounts for motors file can be found [here](https://grabcad.com/library/johnson-mini-johnson-gear-motor-mount-l-clamp-1) and for motors [here](https://grabcad.com/library/johnson-geared-motor-grade-b-1).
+> File for other parts of build can also be found in this repository, for the L-mounts for motors file is obtained from [here](https://grabcad.com/library/johnson-mini-johnson-gear-motor-mount-l-clamp-1) and for motors [here](https://grabcad.com/library/johnson-geared-motor-grade-b-1).
 
 # BOM-
 | Component Name | Description | Quantity | Link | Price |
