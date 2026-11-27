@@ -24,12 +24,10 @@ This is custom Car Chassis for RC bot, it features standard motor mount and curv
 > File for wheel can also be found in this repository, for the L-mounts for motors file can be found online.
 
 # BOM-
-| Component Name | Description | Quantity |
-| :--- | :--- | :---: |
-| **Steel** | Building Chassis | 2-3 sheets |
-| **Motor Mount L-Bracket** | Mount motors | 4 pieces |
-| **Wheel** | Connecting to motor | 4 pieces |
+| Component Name | Description | Quantity | Link | Price |
+| :--- | :--- | :---: | :---: | :---: | 
+| **Steel** | Building Chassis | 2-3 sheets | NA | $20-30 |
+| **Motor Mount L-Bracket** | Mount motors | 4 pieces | "https://www.amazon.com/dp/B07BHDZH7Y"| $9*4 |
+| **Wheel** | Connecting to motor | 4 pieces | "https://www.amazon.com/dp/B0DDGB3VD5" | $30*4 |
 
 ---
-
-

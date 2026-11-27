@@ -1,4 +1,4 @@
 component,quantity,purpose,sourcing,price_usd
-Steel,2-3 sheets,Building Chassis,Locally,"Depends on location(5-10 dollars)"
-Motor Mount L-Bracket,4 pieces,Mount motors,Can be custom made or brought,"4 dollars"
-Wheel, 4 pieces, Connecting to motor, Online/Local, "20 dollars"
+Steel,2-3 sheets,Building Chassis,Locally,"Depends on location($20-30)"
+Motor Mount L-Bracket,4 pieces,Mount motors,"https://www.amazon.com/dp/B07BHDZH7Y","$36"
+Wheel, 4 pieces, Connecting to motor, "https://www.amazon.com/dp/B0DDGB3VD5", "$120"
