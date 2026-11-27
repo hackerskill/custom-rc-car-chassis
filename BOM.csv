@@ -1,4 +1,4 @@
 component,quantity,purpose,sourcing,price_usd
-Steel,2-3 sheets,Building Chassis,Locally,"Depends on location($20-30)"
+Steel,2-3 sheets,Building Chassis,https://www.amazon.com/dp/B0G397K68H/,"$25"
 Motor Mount L-Bracket,4 pieces,Mount motors,"https://www.amazon.com/dp/B07BHDZH7Y","$36"
 Wheel, 4 pieces, Connecting to motor, "https://www.amazon.com/dp/B0DDGB3VD5", "$120"
